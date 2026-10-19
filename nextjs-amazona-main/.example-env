@@ -1,0 +1,30 @@
+
+NEXT_PUBLIC_APP_NAME=Amazona
+NEXT_PUBLIC_APP_DESCRIPTION=An Amazon clone built with Next.js, MongoDB, Shadcn
+NEXT_PUBLIC_SERVER_URL=http://localhost:3000
+
+# Database
+MONGODB_URI=MONGODB_URI=MONGODB_URI=mongodb+srv://ghosharpa85_db_user:TZxahHB9crefF7bh@cluster0.jcl4xrs.mongodb.net/amazona?retryWrites=true&w=majority
+ 
+
+# $ npx auth secret
+AUTH_SECRET=85aae37abd28582b066e339f5d0c04457449f8653abe20c98bbae2d85d9d3b25
+AUTH_GOOGLE_ID=
+AUTH_GOOGLE_SECRET=
+node -v
+npm -v
+git --version
+RESEND_API_KEY=
+SENDER_EMAIL=
+
+# UPLOADTHING
+UPLOADTHING_TOKEN=
+# PAYPAL
+PAYPAL_API_URL=
+PAYPAL_CLIENT_ID=
+PAYPAL_APP_SECRET=
+
+# STRIPE
+NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=
+STRIPE_SECRET_KEY=
+STRIPE_WEBHOOK_SECRET=
